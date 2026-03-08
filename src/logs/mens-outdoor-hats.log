@@ -1,0 +1,3 @@
+2026-03-08 10:47:04.926 | INFO     | __main__:fetch:45 - there are {len(cards} cards
+2026-03-08 10:50:37.508 | INFO     | __main__:fetch:45 - there are 162 cards
+2026-03-08 10:53:05.830 | INFO     | __main__:fetch:45 - there are 162 cards
